@@ -19,9 +19,9 @@
    Убедитесь, что у вас установлен Python. Вы можете скачать его с [официального сайта Python](https://www.python.org/downloads/).
 
 2. **Установите необходимые библиотеки:**
-   Установите библиотеки `pandas` и `selenium` с помощью pip:
    ```sh
-   pip install pandas selenium
+   pip install -r requirements.txt
+   ```
 
 3. Скачайте ChromeDriver: Убедитесь, что у вас установлен ChromeDriver, соответствующий версии вашего браузера Chrome. Вы можете скачать его с [официального сайта ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/).
 
